@@ -10,3 +10,8 @@ Developed a comprehensive system for detecting and interpreting sign language vi
 
 ### Comprehensive Job Search Web Application Using LLM
 Played a significant role in developing the final project for my degree. Contributions were primarily in backend development built with Flask, including the implementation of job scraping algorithms using Selenium, preprocessing and translating data when needed, and creating prompts for the Gemini API to generate new features based on job descriptions. Additionally, worked on the frontend, implementing filtering logic and a little bit of aesthetic.
+[GitHub Repository](https://github.com/shaik1201/Final-Project)
+
+### 
+[GitHub Repository](https://github.com/oren1996/MLOps)
+
