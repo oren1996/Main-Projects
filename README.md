@@ -16,5 +16,8 @@ Worked on an innovative system that converts plain text descriptions into virtua
 Developed a comprehensive system for detecting and interpreting sign language via a webcam. The project focuses on recognizing individual letters of the sign language alphabet using advanced image processing libraries like OpenCV and MediaPipe and classification algorithms. <br>
 [GitHub Repository](https://github.com/oren1996/SignLanguageDetection)
 
+### Israel's Economic Trends: From 2021 to 2023
+Collaborated to create a comprehensive dashboard analyzing Israel’s economic trends from 2021 to 2023, categorized by diverse categrories. The dashboard visualized key metrics such as the ability to handle unexpected expenses, overdraft occurrences, and budgetary distress. My role included data cleaning, analysis, and designing interactive visualizations in Tableau. The project involved working with multiple survey responses from Paamonim Association, focusing on simplifying complex economic data for a general audience. <br>
+[Tableau Link](https://public.tableau.com/views/Team21Submission01_10/Dashboard?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
