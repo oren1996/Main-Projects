@@ -20,4 +20,8 @@ Developed a comprehensive system for detecting and interpreting sign language vi
 Collaborated to create a comprehensive dashboard analyzing Israel’s economic trends from 2021 to 2023, categorized by diverse categrories. The dashboard visualized key metrics such as the ability to handle unexpected expenses, overdraft occurrences, and budgetary distress. My role included data cleaning, analysis, and designing interactive visualizations in Tableau. The project involved working with multiple survey responses from Paamonim Association, focusing on simplifying complex economic data for a general audience. <br>
 [Tableau Link](https://public.tableau.com/views/Team21Submission01_10/Dashboard?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+### Machine Learning Project in Python
+This project demonstrates proficiency in essential machine learning skills using Python, including data preprocessing (handling missing values, removing duplicates, encoding categorical variables, and normalization), exploratory data analysis, and the development of both classification models (XGBoost, Random Forest, LGBM, Keras neural network) and regression models (Linear, Polynomial, Lasso, and Ridge regression). It highlights expertise in hyperparameter tuning, cross-validation, and the use of various evaluation metrics to optimize and assess model performance, effectively managing overfitting and underfitting. The project utilizes tools such as Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, and Keras.
+[GitHub Repository](https://github.com/oren1996/Classification-RegressionTasks)
+
 
