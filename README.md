@@ -25,3 +25,9 @@ This project demonstrates proficiency in essential machine learning skills using
 [GitHub Repository](https://github.com/oren1996/Classification-RegressionTasks)
 
 
+### Conversational Agent for E-commerce Platform
+Developed an AI-powered conversational agent (chatbot) for an e-commerce platform using the Python, Flask OpenAI API and LLM technology. The chatbot provides natural language customer support, handling queries such as order status, return policies, and requests for human representatives. Set up and populated a database using custom scripts. Evaluated the chatbot's performance and accuracy with custom Python evaluation scripts, focusing on the effectiveness of the AI and LLM integration. <br> 
+[GitHub Repository](https://github.com/oren1996/LLMEngineerHomeWork)
+
+
+
