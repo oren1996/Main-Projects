@@ -15,22 +15,19 @@ Developed an AI-powered conversational agent (chatbot) for an e-commerce platfor
 - **From Text to LLM to G-code**
 Worked on an innovative system that converts plain text descriptions into virtual 3D models using a finetuned GPT-4 model within a multi-agent framework. Users can then visualize and interactively modify these models in a user-friendly interface before generating 3D printing instructions (G-code). For the backend i used python and Flask.
 [GitHub Repository](https://github.com/oren1996/Text_To_LLM_To_3D)
-
-
+<br>
 ### 2) **Computer Vision**
 
 - **Sign Language Detection Using Computer Vision**
 Developed a comprehensive system for detecting and interpreting sign language via a webcam. The project focuses on recognizing individual letters of the sign language alphabet using advanced image processing libraries like OpenCV and MediaPipe and classification algorithms and python.  
 [GitHub Repository](https://github.com/oren1996/SignLanguageDetection)
-
-    
+<br>    
 ### 3) **Machine Learning**
 
 - **Machine Learning Project in Python**
 This project demonstrates proficiency in essential machine learning skills using Python, including data preprocessing (handling missing values, removing duplicates, encoding categorical variables, and normalization), exploratory data analysis, and the development of both classification models (XGBoost, Random Forest, LGBM, Keras neural network) and regression models (Linear, Polynomial, Lasso, and Ridge regression). It highlights expertise in hyperparameter tuning, cross-validation, and the use of various evaluation metrics to optimize and assess model performance, effectively managing overfitting and underfitting. The project utilizes tools such as Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, and Keras.  
 [GitHub Repository](https://github.com/oren1996/Classification-RegressionTasks)
-
-
+<br>
 ### 4) **Data Analysis and Visualization**
 
 - **Israel's Economic Trends: From 2021 to 2023**
