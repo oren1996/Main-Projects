@@ -13,22 +13,22 @@ Developed an AI-powered conversational agent (chatbot) for an e-commerce platfor
 [GitHub Repository](https://github.com/oren1996/LLMEngineerHomeWork)
 
 - **From Text to LLM to G-code**
-Worked on an innovative system that converts plain text descriptions into virtual 3D models using a finetuned GPT-4 model within a multi-agent framework. Users can then visualize and interactively modify these models in a user-friendly interface before generating 3D printing instructions (G-code).  
+Worked on an innovative system that converts plain text descriptions into virtual 3D models using a finetuned GPT-4 model within a multi-agent framework. Users can then visualize and interactively modify these models in a user-friendly interface before generating 3D printing instructions (G-code). For the backend i used python and Flask.
 [GitHub Repository](https://github.com/oren1996/Text_To_LLM_To_3D)
 
 ### 2) **Computer Vision**
 
 - **Sign Language Detection Using Computer Vision**
-Developed a comprehensive system for detecting and interpreting sign language via a webcam. The project focuses on recognizing individual letters of the sign language alphabet using advanced image processing libraries like OpenCV and MediaPipe and classification algorithms.  
+Developed a comprehensive system for detecting and interpreting sign language via a webcam. The project focuses on recognizing individual letters of the sign language alphabet using advanced image processing libraries like OpenCV and MediaPipe and classification algorithms and python.  
 [GitHub Repository](https://github.com/oren1996/SignLanguageDetection)
     
-### **Artificial Intelligence and Machine Learning**
+### 3) **Machine Learning**
 
 - **Machine Learning Project in Python**
 This project demonstrates proficiency in essential machine learning skills using Python, including data preprocessing (handling missing values, removing duplicates, encoding categorical variables, and normalization), exploratory data analysis, and the development of both classification models (XGBoost, Random Forest, LGBM, Keras neural network) and regression models (Linear, Polynomial, Lasso, and Ridge regression). It highlights expertise in hyperparameter tuning, cross-validation, and the use of various evaluation metrics to optimize and assess model performance, effectively managing overfitting and underfitting. The project utilizes tools such as Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, and Keras.  
 [GitHub Repository](https://github.com/oren1996/Classification-RegressionTasks)
 
-### **Data Analysis and Visualization**
+### 4) **Data Analysis and Visualization**
 
 - **Israel's Economic Trends: From 2021 to 2023**
 Collaborated to create a comprehensive dashboard analyzing Israel’s economic trends from 2021 to 2023, categorized by diverse categories. The dashboard visualized key metrics such as the ability to handle unexpected expenses, overdraft occurrences, and budgetary distress. My role included data cleaning, analysis, and designing interactive visualizations in Tableau. The project involved working with multiple survey responses from Paamonim Association, focusing on simplifying complex economic data for a general audience.  
